@@ -42,7 +42,7 @@ admin.site.register(Car_DB,Car_DBAdmin)
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-04-15 122312.png>)
+![alt text](<Screenshot 2025-09-13 135125.png>)
 
 
 ## RESULT
